@@ -4,7 +4,7 @@ WolfOutLadder is a project aimed at helping Codeforces users increase their rati
 
 
 ## Flowchart
-![Flowchart](.C2Ladder/WolfOut.drawio.png)
+![alt text](https://github.com/jot-s-bindra/C2Ladder/blob/master/WolfOut.drawio.png?raw=true)
 
 
 
